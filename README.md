@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshinarang&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshinarang" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **divyanshi.narang16@gmail.com**
 
